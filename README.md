@@ -46,6 +46,7 @@ All course are from Udacity, of course, you can select the similar course and co
  3. [Reinforcement Learning]
 (https://www.udacity.com/course/reinforcement-learning--ud600) 
 
+----
 - **Monster** : Become top 10 kernel in [kaggle web] (https://www.kaggle.com/), some interesting topics you should take a look. Even, you can award a prize and speed up your data analysis skill in some competition. 
  1. [**Titanic**]
 (https://www.kaggle.com/c/titanic) : Machine Learning from Disaster
