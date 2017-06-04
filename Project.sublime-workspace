@@ -1,0 +1,314 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rea",
+				"read_csv\t(Ch2_3_Pratic_Titantic_Survival_Prediction_80%.py)"
+			],
+			[
+				"na",
+				"name1"
+			],
+			[
+				"nam",
+				"name2"
+			],
+			[
+				"C",
+				"CurrentState"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/User/gcc c code.sublime-build",
+					""
+				],
+				[
+					"Packages/User/gcc c code.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/gcc c code.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 347.0,
+		"last_filter": "pack in",
+		"selected_items":
+		[
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/MH/SourceTreeproject/ML_DL_Learning/資料科學學習.txt",
+		"/Users/MH/SourceTreeproject/DataScience/Lesson 4 Problem Set 2 Wrangling Subway Data/turnstile_110507.txt",
+		"/Users/MH/Desktop/461. Hamming Distance.c",
+		"/Users/MH/SourceTreeproject/DataScience/Ch3_3_Pratic_Handle_Json_Data.py",
+		"/Users/MH/SourceTreeproject/DataScience/Ch3_2_Pratic_Handle_SQL_with_pandas.py",
+		"/Users/MH/SourceTreeproject/DataScience/Ch3_3_Pratic_Handle_SQL_with_complex_query.py",
+		"/Users/MH/SourceTreeproject/DataScience/Ch3_1_Pratic_Handle_SQL_with_pandas.py",
+		"/Users/MH/SourceTreeproject/DataScience/Ch3_1_Pratic_Handle_csv_with_pandas.py",
+		"/Users/MH/SourceTreeproject/DataScience/Ch2_3_Pratic_Titantic_Survival_Prediction_80%.py",
+		"/Users/MH/SourceTreeproject/DataScience/Ch3_31_Pratic_Handle_csv_with_pandas.py",
+		"/Users/MH/Downloads/subplots_demo.py",
+		"/Users/MH/SourceTreeproject/DataScience/Ch2_1_Pratic_LoadData_and_prediction.py",
+		"/Users/MH/SourceTreeproject/DataScience/Ch2_1_Pratic_Prediction_with_Complex.py",
+		"/Users/MH/SourceTreeproject/DataScience/1_play_with_Numpy.py",
+		"/Users/MH/SourceTreeproject/DataScience/8_Pratic_with_pandas_numpy_More.py",
+		"/Users/MH/SourceTreeproject/DataScience/7_Pratic_with_pandas_numpy_applyfunciton.py",
+		"/Users/MH/SourceTreeproject/DataScience/5_Pratic_with_pandas_numpy_calculation.py",
+		"/Users/MH/SourceTreeproject/DataScience/5_play_with_pandas_Master_in_index_selection.py",
+		"/Users/MH/SourceTreeproject/DataScience/5_Pratic_with_pandas_numpy_applyfunciton.py",
+		"/Users/MH/SourceTreeproject/5_Pratic_with_pandas_numpy_applyfunciton.py",
+		"/Users/MH/SourceTreeproject/5_Pratic_with_pandas_numpy_calculation.py",
+		"/Users/MH/SourceTreeproject/4_Pratice_with_pandas_DataFrame.py",
+		"/Users/MH/SourceTreeproject/5_play_with_pandas_Master_in_index_selection.py",
+		"/Users/MH/SourceTreeproject/3_play_with_pandas_DataFrame.py",
+		"/Users/MH/SourceTreeproject/2_play_with_pandas_Series.py",
+		"/Users/MH/SourceTreeproject/1_play_with_Numpy.py",
+		"/Users/MH/Google Drive/0 Team Baymax/1 Project/21 User Predict model on report sheets/問題定義.txt",
+		"/Users/MH/SourceTreeproject/ML_DL_Learning/HousePrices_Regression/HousePrices_Regression-master/main.py",
+		"/Users/MH/Downloads/9781118961742_all code files/06/wineTree.py",
+		"/Users/MH/SourceTreeproject/PredictSheetAction/PythonML/testSet.txt",
+		"/Users/MH/Library/Jupyter/kernels/gl-env/kernel.json",
+		"/Users/MH/Desktop/0423 meeting",
+		"/Users/MH/Google Drive/0 Team Baymax/1 Project/21 User Predict model on report sheets/0430_Problem",
+		"/Users/MH/Downloads/∂◊•X.txt",
+		"/Users/MH/Google Drive/0 Team Baymax/1 Project/21 User Predict model on report sheets/∂◊•X.txt",
+		"/Users/MH/Desktop/3，扩展例程/4，UCOS扩展例程/readme.txt",
+		"/Volumes/TOOLS/正點原子mini/4，程序源码/keilkilll.bat",
+		"/Users/MH/Downloads/KalmanFilter_V11/Magnetometer_calibration.m",
+		"/Users/MH/SourceTreeproject/ButcherX2/shopping_app_firebase/Podfile",
+		"/Users/MH/SourceTreeproject/Grocr-starter/Podfile",
+		"/Users/MH/SourceTreeproject/ShrimpHunter/modbus_test/PIshrimp.py",
+		"/Users/MH/SourceTreeproject/swift/friendlychat/ios-starter/swift-starter/Podfile",
+		"/Users/MH/SourceTreeproject/swift/readme",
+		"/Users/MH/stm32/探索者F4 资料盘(Ｂ盘)/第9讲 程序下载方法2：JLINK程序下载/Thumbs.db",
+		"/Users/MH/Google Drive/office rent",
+		"/Users/MH/SourceTreeproject/Coursera_HybridMobileApp/json-server/commend",
+		"/Users/MH/Downloads/_010a857c8cef22288ddc1db865c30e54_db.json",
+		"/Users/MH/SourceTreeproject/epark-rpi3/datalogger.py",
+		"/Users/MH/SourceTreeproject/epark-rpi3/i2c_datalogger.py",
+		"/Users/MH/SourceTreeproject/epark-rpi3/i2c.py",
+		"/Users/MH/Google Drive/0 Team Baymax/1 Project/2015 Q3 project/4.3pi mouse/Part2/Arduino IDE/Finall20151026/FI20151026/FI20151026.ino",
+		"/Users/MH/Google Drive/視覺化專案V1_20160526/PM25/PM2.5_data_2015.csv",
+		"/Users/MH/C_Learning/3 Variable.c",
+		"/Users/MH/Documents/C Learning/6 Getting input with scanf.c",
+		"/Users/MH/Documents/C Learning/5 header file/header file.c",
+		"/Users/MH/Documents/C Learning/5 header file/myheader.h",
+		"/Users/MH/Documents/C Learning/5 header file/5 header file.c",
+		"/Users/MH/Documents/C Learning/4 String usage.c",
+		"/Users/MH/Documents/C Learning/2 Print character.c",
+		"/Users/MH/Documents/C Learning/3 Variable.c",
+		"/Users/MH/Documents/C Learning/1 hello world.c",
+		"/Users/MH/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/MH/Library/Application Support/Sublime Text 3/Packages/User/hello.c",
+		"/Users/MH/Library/Application Support/Sublime Text 3/Packages/User/gcc c code.sublime-build",
+		"/Users/MH/Library/Application Support/Sublime Text 3/Packages/User/g++ c code builder",
+		"/Users/MH/Google Drive/1 iSenTEK/0 Basic knowledage/1 CY docs/Codewarrior/FRDM_KL46Z/ReferencedRSESystems.xml",
+		"/Users/MH/Google Drive/1 iSenTEK/0 Basic knowledage/1 CY docs/Codewarrior/FRDM_KL46Z/Project_Settings/Startup_Code/__arm_start.c",
+		"/Users/MH/Downloads/get_video_info-3",
+		"/Users/MH/Downloads/get_video_info",
+		"/Users/MH/StatisticWebsite/statisticData/views.py",
+		"/Users/MH/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/MH/trevdev/oh-my-zsh/README.markdown",
+		"/Users/MH/SourceTreeproject/SmartHomeDjango/SmartHome/static/js/RestControl.js",
+		"/Users/MH/SourceTreeproject/SmartHomeDjango/SmartHome/static/js/RestControlMainRoom.js",
+		"/Users/MH/SourceTreeproject/SmartHomeDjango/SmartHome/static/js/CurrentStatusRead.js",
+		"/Users/MH/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<current file>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"snapshot",
+			"items",
+			"groceryItemRef",
+			"toAnyObject",
+			"groceryItem",
+			"GroceryItem",
+			"ref",
+			"itemsRef",
+			"childRef",
+			"rootRef",
+			"itemsRef",
+			"#define "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"cartOrderList",
+			"CartOrderList",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 383.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/gcc c code.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 219.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

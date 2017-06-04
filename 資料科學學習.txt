@@ -1,0 +1,82 @@
+資料科學學習
+
+0. python basic
+1. 資料視覺化 matplotlib
+2. sci-kit learn
+3. deep learning
+
+
+主題
+	
+
+內容
+
+資料科學導論
+	
+
+    什麼是資料科學？
+    資料科學經典案例
+    資料科學的領域與團隊
+    資料科學與大數據
+    資料科學實作流程
+    Why Python for Data Science?
+
+Python 資料分析環境
+    Anaconda 安裝與操作
+    Jupyter（Ipython Notebook）使用
+
+Python 資料結構與基礎語法
+	
+    Python 變數型態與基本運算
+    Python 字串處理
+    Python 程式結構
+    Python 基礎語法
+    Python 資料結構 - Tuple、List、字典、集合
+    Numpy、Pandas 資料結構
+
+資料匯入及預處理
+
+（Preprocessing）
+	
+
+    認識資料種類與測量量尺
+    網路爬蟲（Web Crawler）、HTML剖析與處理
+    資料匯入（資料庫、Excel、CSV、JSON、XML等）與匯出
+    資料預處理（清理、轉換、對應、切割、合併、JOIN等）
+
+資料分析與視覺化
+
+（Analysis & Visualization）
+	
+
+    統計量分析（Statistical Analysis）
+    資料聚合（Aggregation and Grouping）
+    樞紐分析表（Pivot Table）
+    視覺化作圖（折線圖、直方圖、長條圖、散佈圖、箱形圖、圓餅圖等）
+    作圖功能項目（作圖風格、座標軸名稱、標註、圖例、多圖整合等）
+    時間序列（Time Series）處理與週期性分析
+    異常值偵測（Anomaly Detection）
+    主次因素分析（Pareto Analysis）
+    相關性分析（Correlation Analysis）
+    購物籃分析（Basket Analysis）
+
+基礎機器學習建模、預測、評估
+	
+
+    特徵值選擇：資訊增益（Information Gain, IG）
+    基本非監督式機器學習：分群、決策分類樹等
+    基本監督式機器學習：線性與非線性迴歸、Logistic迴歸等
+    模型效果評估：混淆矩陣（Confusion Matrix）、MSE、R Square等
+
+進階視覺化Python套件導論
+	
+
+    探索式資料分析（Exploratory Data Analysis, EDA）與互動式視覺化
+    進階視覺化與Python視覺化套件介紹
+
+進階資料科學技術Python套件導論
+	
+
+    深度學習與人工智慧（Deep Learning and Artificial Intelligence）
+    自然語言處理與文字探勘（Natural Language Processing and Text Mining）
+    社會網路分析（Social Network Analysis, SNA）
