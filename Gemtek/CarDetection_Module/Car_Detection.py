@@ -9,7 +9,7 @@ class Car_Detection:
         self.cos_alpha_init = self.MagX_init / self.MagLen_init
         self.cos_beta_init = self.MagY_init / self.MagLen_init
         self.cos_gamma_init = self.MagZ_init / self.MagLen_init
-        self.index_performance_XY_plane = 0
+        self.Pinit_performance_XY_plane = 0
 
     def get_mag_length(self, MagX, MagY, MagZ):
         return (MagX**2 + MagY ** 2 + MagZ**2)**(0.5)
@@ -20,13 +20,16 @@ class Car_Detection:
         return Z_compoment
 
     def detect_2_performance_XY_plane(self, MagX, MagY, MagZ):
-        P = (MagX - MagY) / (MagX**2 + MagY ** 2)**(0.5)
+        P = (MagX - MagY) / (MagX**2 + MagY ** 2)**(0.5) - \
+            self.Pinit_performance_XY_plane
         return P
 
     def detect_3_cosine_variations_product_XY_plane(self, MagX, MagY, MagZ):
         MagLen = self.get_mag_length(MagX, MagY, MagZ)
         X_part = MagX / MagLen - self.MagX_init / self.MagLen_init
         Y_part = MagY / MagLen - self.MagY_init / self.MagLen_init
+        if Y_part < 0.0001:
+            Y_part = 0.0001
         CP = X_part / Y_part
         return CP
 
