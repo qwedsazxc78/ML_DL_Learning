@@ -1,6 +1,0 @@
-﻿,_id,_index,mac,create_at_time,recv_at_time,frameCnt,data,company,road,slot_num,gwip,magX,magY,magZ,magT
-0,AV2h2CaJ-R03vmj0MNT8,parking_record_index_v2,101a0d01019a,2017-08-02T07:28:03.720Z,2017-08-02T07:28:03.000Z,860,fcffff0714ff62007dff26,yilan,宜蘭市中山路二段,111,10.5.151.1,-236,98,-131,38
-1,AV2h2Bmy-R03vmj0MNT2,parking_record_index_v2,101a0d01019a,2017-08-02T07:28:00.433Z,2017-08-02T07:28:00.000Z,859,fcffff0713ff62007dff26,yilan,宜蘭市中山路二段,111,10.5.151.1,-237,98,-131,38
-2,AV2h2A3K-R03vmj0MNT0,parking_record_index_v2,101a0d01019a,2017-08-02T07:27:57.385Z,2017-08-02T07:27:57.000Z,858,fcffff0713ff62007eff26,yilan,宜蘭市中山路二段,111,10.5.151.1,-237,98,-130,38
-3,AV2h2AJM-R03vmj0MNTy,parking_record_index_v2,101a0d01019a,2017-08-02T07:27:54.443Z,2017-08-02T07:27:54.000Z,857,fcffff0713ff61007fff26,yilan,宜蘭市中山路二段,111,10.5.151.1,-237,97,-129,38
-4,AV2h1_Zi-R03vmj0MNTq,parking_record_index_v2,101a0d01019a,2017-08-02T07:27:51.393Z,2017-08-02T07:27:51.000Z,856,fcffff0713ff600080ff26,yilan,宜蘭市中山路二段,111,10.5.151.1,-237,96,-128,38

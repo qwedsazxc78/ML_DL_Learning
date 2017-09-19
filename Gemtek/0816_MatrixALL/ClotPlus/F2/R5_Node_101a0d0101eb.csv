@@ -1,2 +1,0 @@
-﻿,Unnamed: 0,_id,_index,mac,create_at_time,recv_at_time,frameCnt,data,company,road,slot_num,gwip,rssi,snr,timestamp,latency_time,magX,magY,magZ,mag_len,magT,count,magX_of,magY_of,magZ_of,magLen_of
-2365,2365,AV3LV-qi-R03vmj0PFQ4,parking_record_index_v2,101a0d0101eb,2017-08-10T08:52:02.850Z,2017-08-10T08:52:01.000Z,32,fcffff07771b0008b7ff8e,yilan,宜蘭市中山路二段,1011,10.5.151.1,-82.0,27.5,1502355121.0,1.85,7031,2048,-73,7323.5642961607155,142,2017-08-10 16:52:01,7031.0,2048.0,-73.0,7323.5642961607155
